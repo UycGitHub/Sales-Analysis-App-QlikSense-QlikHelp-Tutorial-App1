@@ -22,4 +22,7 @@ Here are some screenshots showcasing the application's features and visualizatio
 ![Insights Sheet](./Qlik%20Help%20Tutorial%20App1%20SnapShots/5-Insights%20Sheet.png)
 
 ### 6. Manager Dashboard Sheet
-![Manager Dashboard Sheet](./Q
+![Manager Dashboard Sheet](./Qlik%20Help%20Tutorial%20App1%20SnapShots/6-Manager%20Dashboard%20Sheet.png)
+
+### 7. Filters Sheet
+![Filters Sheet](./Qlik%20Help%20Tutorial%20App1%20SnapShots/7-Filters%20Sheet.png)
