@@ -7,24 +7,19 @@ This repository contains a "Sales Analysis" application developed using QlikSens
 Here are some screenshots showcasing the application's features and visualizations:
 
 ### 1. Dashboard Sheet
-![Dashboard Sheet](./Qlik%20Help%20Tutorial%20App1%20SnapShots/Dashboard%20Sheet.png)
+![Dashboard Sheet](./Qlik%20Help%20Tutorial%20App1%20SnapShots/1-Dashboard%20Sheet.png)
 
 ### 2. Product Details Sheet
-![Product Details Sheet](./Qlik%20Help%20Tutorial%20App1%20SnapShots/Product%20Details%20Sheet.png)
+![Product Details Sheet](./Qlik%20Help%20Tutorial%20App1%20SnapShots/2-Product%20Details%20Sheet.png)
 
 ### 3. Customer Details Sheet
-![Customer Details Sheet](./Qlik%20Help%20Tutorial%20App1%20SnapShots/Customer%20Details%20Sheet.png)
+![Customer Details Sheet](./Qlik%20Help%20Tutorial%20App1%20SnapShots/3-Customer%20Details%20Sheet.png)
 
 ### 4. Customer Locations Sheet
-![Customer Locations Sheet](./Qlik%20Help%20Tutorial%20App1%20SnapShots/Customer%20Locations%20Sheet.png)
+![Customer Locations Sheet](./Qlik%20Help%20Tutorial%20App1%20SnapShots/4-Customer%20Locations%20Sheet.png)
 
 ### 5. Insights Sheet
-![Insights Sheet](./Qlik%20Help%20Tutorial%20App1%20SnapShots/Insights%20Sheet.png)
+![Insights Sheet](./Qlik%20Help%20Tutorial%20App1%20SnapShots/5-Insights%20Sheet.png)
 
 ### 6. Manager Dashboard Sheet
-![Manager Dashboard Sheet](./Qlik%20Help%20Tutorial%20App1%20SnapShots/Manager%20Dashboard%20Sheet.png)
-
-### 7. Filters Sheet
-![Filters Sheet](./Qlik%20Help%20Tutorial%20App1%20SnapShots/Filters%20Sheet.png)
-
-
+![Manager Dashboard Sheet](./Q
