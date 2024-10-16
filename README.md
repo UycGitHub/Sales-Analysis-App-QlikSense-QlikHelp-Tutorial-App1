@@ -27,3 +27,4 @@ Here are some screenshots showcasing the application's features and visualizatio
 ### 7. Filters Sheet
 ![Filters Sheet](./Qlik%20Help%20Tutorial%20App1%20SnapShots/Filters%20Sheet.png)
 
+
